@@ -1,0 +1,3 @@
+[submodule "fit"]
+	path = fit
+	url = https://github.com/PattasuBalu/fit
